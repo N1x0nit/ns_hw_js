@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/ns_hw_js/",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "devDependencies": {
