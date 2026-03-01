@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/wd_hm_js/",
+    "build": "vite build --base=/ns_hw_js/",
     "preview": "vite preview"
   },
   "devDependencies": {
